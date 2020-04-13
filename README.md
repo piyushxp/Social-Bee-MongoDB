@@ -22,7 +22,7 @@ npm install
 ```
 npm run dev
 ```
-> This command would first "DUMP THE DATA" into your Database and then start the Server in Development Mode,on your first time usage
+> This command would  start the Server in Development Mode
 
 
 # Database Seeder
